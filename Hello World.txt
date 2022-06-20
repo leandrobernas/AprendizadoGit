@@ -1,0 +1,10 @@
+Hellow World,
+
+Eu sou o Leandro.
+
+
+-Aula git
+
+-git config --global user.name "coloca o seu nome"
+
+-git config --global user.email "adiciona seu email"
